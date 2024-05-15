@@ -1,7 +1,7 @@
   # System.out.println("Hello World!"); 
   
   :computer: Systems Analysis and Development student | Becoming Back-end Developer <br>
-  <img alt="On-A-Journey-To-Be-A-Back-End" src="https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Dev.+Back-end!" >
+  <img alt="On-A-Journey-To-Be-A-Back-End" src="https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Dev+Back-end!" >
     
   <hr>
   
