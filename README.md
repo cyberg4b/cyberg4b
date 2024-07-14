@@ -1,11 +1,11 @@
   # System.out.println("Hello World!"); 
   
-  :computer: Systems Analysis and Development student | Becoming Back-end Developer <br>
+  :computer: Systems Analysis and Development student | Becoming Full-stack Developer <br>
   <img alt="On-A-Journey-To-Be-A-Back-End" src="https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Dev+Back-end!" >
     
   <hr>
   
-    💻📚Interested in every area of technology, especially programming and databases
+    💻📚Interested in every area of technology, especially web applications and databases
     
   
   <div align="center">
